@@ -34,6 +34,4 @@ fn main() {
 
     // 3. With expect()
     let f = File::open("hello.txt").expect("Failed to open hello.txt");
-
-
 }
